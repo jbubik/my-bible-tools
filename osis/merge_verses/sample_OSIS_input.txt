@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.crosswire.org/~dmsmith/osis/osisCore.2.1.1-cw-latest.xsd">
+<osisText osisIDWork="CzeSNC" osisRefWork="bible" xml:lang="cs" canonical="true">
+	<header>
+		<work osisWork="CzeSNC">
+			<title>Slovo na cestu</title>
+			<type type="OSIS">Bible</type>
+			<identifier type="OSIS">Bible.CzeSNC</identifier>
+			<rights type="x-copyright">Copyright 1988, 2000 Biblica, Inc.®</rights>
+			<refSystem>Bible</refSystem>
+		</work>
+		<work osisWork="bible">
+			<type type="OSIS">Bible</type>
+			<refSystem>Bible</refSystem>
+		</work>
+	</header>
+
+	<div type="x-testament">
+	<div type="book" osisID="Gen">
+
+	<chapter osisID="Gen.1">
+		<verse osisID="Gen.1.1">Na samém počátku historie naší země stojí Bůh. Ano, byl to On, kdo stvořil nebe a zemi.</verse>
+
+		<verse osisID="Gen.1.2">Ačkoliv byla země zpočátku beztvará a pustá a všude se rozprostírala neproniknutelná temnota, už tenkrát se nad mlžným oparem obklopujícím celou Zemi skláněl Boží duch.</verse>
+
+		<verse osisID="Gen.1.3">A tehdy Bůh řekl: "Buď světlo!" a v tom okamžiku se všechno zalilo světlem.</verse>
+
+		<verse osisID="Gen.1.4">Bůh viděl, že světlo je dobré, a proto je oddělil od tmy.</verse>
+
+		<verse osisID="Gen.1.5">Světlo nazval dnem a tmu nazval nocí. Tak uplynul na naší zemi první den.</verse>
+
+		<verse osisID="Gen.1.6">Potom Bůh řekl: "Všechna voda obklopující zemi ať se rozdělí a vytvoří nahoře oblohu a dole oceány."</verse>
+
+		<verse osisID="Gen.1.7">Těmito slovy tedy Bůh rozdělil vodní opar obklopující zemi a vytvořil z něj nebe a vodstva. Stalo se, jak řekl, a uplynul druhý den.</verse>
+
+		<verse osisID="Gen.1.8">Těmito slovy tedy Bůh rozdělil vodní opar obklopující zemi a vytvořil z něj nebe a vodstva. Stalo se, jak řekl, a uplynul druhý den.</verse>
+
+		<verse osisID="Gen.1.9">Dále Bůh řekl: "Veškerá vodstva pod širým nebem, nahromaďte se do oceánů a na vašem místě nechť se vynoří pevnina." A opět se všechno stalo tak, jak Bůh řekl.</verse>
+
+		<verse osisID="Gen.1.10">Vzniklou souš pak nazval zemí a nahromaděné vody nazval mořem. I tentokrát Bůh viděl, že všechno jeho dílo je dobré.</verse>
+
+		<verse osisID="Gen.1.11">Pokračoval však dále a řekl: "Země, zazelenej se trávou, kvítím a bylinami nesoucími semena. Vydej také rozmanité ovocné stromy rodící plody se semeny, aby se jimi mohly dále rozmnožovat." Když se všechno stalo přesně tak, jak Bůh řekl, opět viděl, že to, co stvořil, je dobré.</verse>
+
+		<verse osisID="Gen.1.12">Pokračoval však dále a řekl: "Země, zazelenej se trávou, kvítím a bylinami nesoucími semena. Vydej také rozmanité ovocné stromy rodící plody se semeny, aby se jimi mohly dále rozmnožovat." Když se všechno stalo přesně tak, jak Bůh řekl, opět viděl, že to, co stvořil, je dobré.</verse>
+
+		<verse osisID="Gen.1.13">Celá země se zaskvěla překrásnou zelení. To všechno se stalo třetí den.</verse>
+
+		<verse osisID="Gen.1.14">Dalšího dne Bůh řekl: "Buďte na nebi jasná světla. Sviťte nad zemí a oddělujte noc a den. Stanete se připomínkou plynoucího času, dnů a let."</verse>
+
+		<verse osisID="Gen.1.15">Dalšího dne Bůh řekl: "Buďte na nebi jasná světla. Sviťte nad zemí a oddělujte noc a den. Stanete se připomínkou plynoucího času, dnů a let."</verse>
+
+		<verse osisID="Gen.1.16">Ihned se vše stalo, jak Bůh řekl, a na nebeské klenbě se objevila různá svítící tělesa. Zářivé slunce, chladný měsíc a k tomu nespočetné množství mihotavých hvězd.</verse>
+
+		<verse osisID="Gen.1.17">Ihned se vše stalo, jak Bůh řekl, a na nebeské klenbě se objevila různá svítící tělesa. Zářivé slunce, chladný měsíc a k tomu nespočetné množství mihotavých hvězd.</verse>
+
+		<verse osisID="Gen.1.18">Slunci připadl úkol svítit ve dne a měsíci s hvězdami osvětlovat zemi v noci. Bůh opět viděl, že vše, co učinil, je dobré,</verse>
+
+		<verse osisID="Gen.1.19">a tak uplynul čtvrtý den.</verse>
+
+		<verse osisID="Gen.1.20">Potom Bůh řekl: "Vody oceánů a moří, hemžete se rozmanitými rybami a vodními živočichy a v průzračném vzduchu pod nebeskou klenbou ať poletuje ptactvo všeho druhu."</verse>
+
+		<verse osisID="Gen.1.21">Tak Bůh stvořil všechny tvory i netvory žijící ve vodní říši a velké i malé ptáky létající v oblacích. Se zalíbením se na své dílo podíval a požehnal jim: "Rozmnožujte se a naplňte všechny oceány a moře. Vy, ptáci, zaplňte celou zemi a vzduch."</verse>
+
+		<verse osisID="Gen.1.22">Tak Bůh stvořil všechny tvory i netvory žijící ve vodní říši a velké i malé ptáky létající v oblacích. Se zalíbením se na své dílo podíval a požehnal jim: "Rozmnožujte se a naplňte všechny oceány a moře. Vy, ptáci, zaplňte celou zemi a vzduch."</verse>
+
+		<verse osisID="Gen.1.23">To vše Bůh stvořil a uplynul pátý den.</verse>
+
+		<verse osisID="Gen.1.24">Bůh však ve svém stvořitelském díle pokračoval dále a řekl: "Ty, země, vydej rozmanité druhy živočichů od plazů až po dobytek a divokou zvěř." Jak řekl, tak se taky ihned stalo.</verse>
+
+		<verse osisID="Gen.1.25">Svým slovem Bůh stvořil širokou škálu druhů suchozemských živočichů, a když své dílo zhlédl, byl opět spokojen, neboť vše bylo dobré.</verse>
+
+		<verse osisID="Gen.1.26">Nato Bůh řekl: "Nyní stvoříme člověka, bytost, která bude odrážet osobnost samotného Boha a bude žít se svým tvůrcem ve vzájemném vztahu. Tento člověk bude vládnout celé planetě se všemi jejími tvory ve vodě, na zemi i ve vzduchu."</verse>
+
+		<verse osisID="Gen.1.27">Bůh tedy stvořil člověka ke svému obrazu jako muže a ženu.</verse>
+
+		<verse osisID="Gen.1.28">Požehnal jim a řekl: "Množte se, naplňte zemi a podmaňte si ji, neboť jsem vás ustanovil vládci nad veškerým tvorstvem, jež jsem stvořil.</verse>
+
+		<verse osisID="Gen.1.29">Za pokrm jsem vám určil každou bylinu nesoucí semena, ovoce a jiné plody se semeny rostoucí na stromech.</verse>
+
+		<verse osisID="Gen.1.30">Všichni ostatní živočichové se budou živit trávou, listím a zelenými bylinami." Jak Bůh řekl, tak se také stalo a</verse>
+
+		<verse osisID="Gen.1.31">vše, co učinil, bylo velmi dobré. Tak tedy skončil i šestý den.</verse>
+
+	</chapter>
+	</div>
+	</div>
+	</osisText>
+</osis>
